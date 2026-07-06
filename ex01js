@@ -1,0 +1,4 @@
+function alterarTexto() {
+    document.getElementyById("mensagem").innerText =
+         "O texto foi alteado usando javascripty!"
+}
